@@ -1,0 +1,2 @@
+# SharpTeamsDump
+Dump Teams conversations
