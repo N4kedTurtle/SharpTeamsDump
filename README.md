@@ -3,6 +3,7 @@ This is a .Net implementation of the research published at https://infinitelogin
 
 Really just a re-implementation of the work done here: https://github.com/Xenov-X/PoSH_Teams_Message_Theif with a couple added features
 
+*Must be elevated to use
 
 USAGE:
 
